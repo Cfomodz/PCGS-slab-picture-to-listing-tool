@@ -165,7 +165,7 @@ images/*
 listings.json
 coin_cache.json
 note.py
-/tmp/*
+tmp/*
 order_report.txt
 input_scans.txt
 *.json
