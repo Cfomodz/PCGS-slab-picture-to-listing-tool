@@ -1,7 +1,3 @@
 python-dotenv
-Pillow
-opencv-python
-pyzbar
 requests
-keyboard
-python-barcode
+reportlab
