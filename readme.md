@@ -4,6 +4,8 @@
 
 **Barcode and image-based coin identification, listing, and label generation.**
 
+![coin_scanning_icon](https://github.com/user-attachments/assets/637ef0dc-2268-4848-bd7b-1dc0eef00da2)
+
 </div>
 
 ---
